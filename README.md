@@ -12,3 +12,7 @@ yarn run build or npm run build
 # To run test
 
 yarn run test or npm run test
+
+# Postman Collection
+
+https://www.getpostman.com/collections/8d134f70f928322702ce
