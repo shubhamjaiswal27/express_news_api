@@ -8,3 +8,7 @@
 # To Build the project
 
 yarn run build or npm run build
+
+# To run test
+
+yarn run test or npm run test
